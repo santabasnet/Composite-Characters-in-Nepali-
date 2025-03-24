@@ -3,7 +3,7 @@ Composite characters (संयुक्त अक्षर) in a word consist o
 - For example: a Word "राष्ट्रियताले" consists of "रा ष्ट्रि य ता ले" composite characters.
   
 This work uses state-machine based approach to solve this problem and implemented in C# for MSWord plugin.
-##Sample Usage:
+## Sample Usage:
 ```cs
 ﻿using Syllabifier;
 using System;

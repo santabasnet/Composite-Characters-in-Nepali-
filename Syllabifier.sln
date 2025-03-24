@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syllabifier", "Syllabifier\Syllabifier.csproj", "{8DD094BD-FE5C-49A1-BB3D-C831293E67D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyllabifierTest", "SyllabifierTest\SyllabifierTest.csproj", "{1FC075F2-BE67-4E85-BBAA-58D0E70EE748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DD094BD-FE5C-49A1-BB3D-C831293E67D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD094BD-FE5C-49A1-BB3D-C831293E67D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD094BD-FE5C-49A1-BB3D-C831293E67D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD094BD-FE5C-49A1-BB3D-C831293E67D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FC075F2-BE67-4E85-BBAA-58D0E70EE748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC075F2-BE67-4E85-BBAA-58D0E70EE748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC075F2-BE67-4E85-BBAA-58D0E70EE748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC075F2-BE67-4E85-BBAA-58D0E70EE748}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
